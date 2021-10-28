@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "474994534541",
+    "firebase_url": "https://freedom-6cdb8.firebaseio.com",
+    "project_id": "freedom-6cdb8",
+    "storage_bucket": "freedom-6cdb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474994534541:android:b0fc82cee186a622c95ac4",
+        "android_client_info": {
+          "package_name": "com.mou.freedom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474994534541-hjd12i9r9chdgbe242qnsmfqi7f6c6iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mou.freedom",
+            "certificate_hash": "3d9e004282094dd9a3a30e352f7213b741db351a"
+          }
+        },
+        {
+          "client_id": "474994534541-3de0ug3qfl15bisrnoa7njmfihtqr3vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCax7Z4kMmv_or0FNMJ4poxU1fUe0gRkco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474994534541-3de0ug3qfl15bisrnoa7njmfihtqr3vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
